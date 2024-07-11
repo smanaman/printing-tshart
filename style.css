@@ -2,7 +2,7 @@ body {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    height: 5000px;
+    /* height: 6000px; */
 }
 
 header {
@@ -1111,4 +1111,205 @@ header {
     margin-left: 240px;
     margin-top: -10px;
     border: 3px solid #52FF00;
+}
+/* trival */
+.trival{
+    width: 1440px;
+    height: 448px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.trival_2{
+    width: 850px;
+    height: 448px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.trival_2_under{
+    width: 270px;
+    height: 448px;
+    /* border: 1px solid black; */
+    margin-left: 13px;
+}
+.trival_img{
+    width: 270px;
+    height: 381px;
+    /* border: 1px solid black; */
+}
+.trival_text{
+    width: 236px;
+    height: 57px;
+    /* border: 1px solid black; */
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+/* login */
+.login{
+    width: 1440px;
+    height: 155px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.login_2{
+    width: 1140px;
+    height: 155px;
+    /* border: 1px solid black; */
+    display: flex;
+    background: linear-gradient(89.9deg, #407BFF -6.81%, rgba(199, 81, 255, 0.62) 36.49%, rgba(231, 106, 181, 0.534779) 68.17%, rgba(255, 23, 135, 0.61) 103.2%);
+border-radius: 20px;
+}
+.login_2_under_1{
+    width: 50%;
+    height: 155px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.login_2_under_2{
+    width: 50%;
+    height: 155px;
+    /* border: 1px solid black; */
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.login_text{
+    width: 331px;
+    height: 51px;
+    /* border: 1px solid black; */
+}
+.text_span{
+    font-family: Lora;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+.login_email{
+    width: 398px;
+    height: 38px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.email{
+    width: 264px;
+    height: 38px;
+    /* border: 1px solid black; */
+
+}
+.email_2{
+    width: 134px;
+    height: 38px;
+    /* border: 1px solid black; */
+
+
+}
+.input{
+    width: 255px;
+    height: 85%;
+    padding-left: 80px;
+}
+.e_but{
+    font-family: Lora;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+    border: none;
+    letter-spacing: 2px;
+}
+/* footer */
+footer{
+    width: 1440px;
+    height: 585px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5F7FB;
+}
+.footer_main{
+    width: 1141px;
+    height: 405px;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-left: 40px;
+}
+.main_fot{
+    width: 232px;
+    height: 405px;
+    /* border: 1px solid black; */
+}
+.footer_img{
+    width: 199px;
+    height: 173px;
+    /* border: 1px solid black; */
+
+}
+.footer_text{
+    width: 231px;
+    height: 54px;
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    color: #474747;
+}
+.footer_icon{
+    width: 157px;
+    height: 28px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+margin-top: 20px;
+}
+.footer_icon_1{
+    width: 28px;
+    height: 28px;
+    /* border: 1px solid #100101; */
+}
+.fot_second{
+    width: 908px;
+    height: 405px;
+    /* border: 1px solid black; */
+}
+.fot_second_2{
+    width: 90%;
+    height: 50%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    
+}
+.fot_second_text{
+    width: 120px;
+    height: 186px;
+    /* border: 1px solid black; */
+}
+.h5{
+    width: 120px;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-family: Lora;
+    font-size: 16px;
+    font-weight: 700;
+}
+.fot_second_text p{
+    line-height: 9px;
+    margin-left: 4px;
+}
+.last_fot{
+    margin-left: 71px;
+}
+.wipper{
+    margin-left: 40px;
+    
 }
